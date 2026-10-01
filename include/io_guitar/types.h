@@ -94,6 +94,7 @@ struct PerformanceInput {
 
 struct TimingResult {
     int32_t errorMs = 0;
+    bool detected = false;
     bool early = false;
     bool late = false;
     bool onTime = false;
