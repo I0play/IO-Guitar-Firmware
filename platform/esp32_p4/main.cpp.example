@@ -1,0 +1,10 @@
+// Example ESP32-P4 entry point skeleton.
+// Replace with a real ESP-IDF component once the schematic is frozen.
+
+// #include "esp_log.h"
+// #include "io_guitar/runtime.h"
+
+// void app_main() {
+//     // Wire real drivers that implement the abstract interfaces
+//     // then construct FirmwareRuntime and call tick() in a loop.
+// }
